@@ -9,7 +9,7 @@
 03. npm install json-server -g
 04. Create another folder name 'public' inside json-folder
 05. download db.json
-06. copy all scripts,views,images,js,css files and index.html into 'public' folder
+06. copy all scripts, views, images, js, css files and index.html into 'public' folder
 
 #Steps to start the json-server:
 
@@ -19,7 +19,7 @@
 
 View from any browser:
 http://localhost:3000
-
+or
 http://localhost:3000/dishes
 
 after submitting the contact info:
