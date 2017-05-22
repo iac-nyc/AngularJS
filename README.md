@@ -4,13 +4,13 @@
 
 
 **To install server** 
-01.Create a folder name json-server
+01. Create a folder name json-server
 02. Command Prompt
 03. npm install json-server -g
 
-# Create another folder name 'public' inside json-folder
-# download db.json
-# copy all scripts,views,images,js,css files and index.html into 'public' folder
+  >Create another folder name 'public' inside json-folder
+ > download db.json
+ > copy all scripts,views,images,js,css files and index.html into 'public' folder
 
 #Steps to start the json-server:
 
