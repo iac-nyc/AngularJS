@@ -19,8 +19,7 @@
 
 View from any browser:
 http://localhost:3000
-or
-http://localhost:3000/dishes
+
 
 after submitting the contact info:
 http://localhost:3000/feedback
